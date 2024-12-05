@@ -1,4 +1,11 @@
+streamlit==1.25.0
+langchain==0.0.283
+openai==0.27.10
+PyPDF2==3.0.1
 fpdf==1.7.2
-streamlit
-langchain
-PyPDF2
+faiss-cpu==1.7.4
+googletrans==4.0.0-rc1
+langdetect==1.0.9
+transliterate==1.10.2
+numpy==1.24.3
+pandas==1.5.3
