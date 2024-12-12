@@ -12,7 +12,7 @@ from langchain.schema.output_parser import StrOutputParser
 
 
 class BookChatbot:
-    def __init__(self, pdf_path, openai_api_key, model="gpt-4"):
+    def __init__(self, pdf_path, openai_api_key, model="gpt-4o-mini"):
         os.environ["OPENAI_API_KEY"] = openai_api_key
         self.pdf_path = pdf_path
         self.model = model
