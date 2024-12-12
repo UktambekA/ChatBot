@@ -1,8 +1,7 @@
-PyPDF2==3.0.1
-fpdf==1.7.2
-langchain==0.0.252
+langchain-core==0.1.0
 langchain-community==0.0.4
-faiss-cpu
-openai==0.27.9
-tiktoken
-
+langsmith==0.0.63
+llama-index-core==0.12.2
+pydantic==2.9.0
+requests==2.31.0
+openai==1.1.0
