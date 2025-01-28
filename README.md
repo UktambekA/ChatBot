@@ -52,6 +52,6 @@ Currently optimized for Uzbek language interactions
 - Depends on OpenAI API
 - Performance varies with book complexity
 
-## Contributing
-Contributions are welcome! Please submit pull requests or open issues.
+## Usage
+https://chatbot1-pddetvez8akeg4odshlmke.streamlit.app/
 
